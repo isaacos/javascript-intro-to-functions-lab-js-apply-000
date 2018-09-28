@@ -1,5 +1,6 @@
 const shout = (string) => {
   return string.toUpperCase()
+<<<<<<< HEAD
 };
 
 const whisper = (string) => {
@@ -29,4 +30,6 @@ const sayHiToGrandma = (string) => {
   
   
   
+=======
+>>>>>>> 3514130fbc2549bc58b1fd05667421fa163167e7
 }
